@@ -9,7 +9,7 @@ _35 group website project_
 
 This project is for educational porpuses only. Pull requests are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/35-grupe-nd-kvadratai/
+Site published at: https://marabiukas.github.io/1_namu_darbas/03-15_bit_prog_yoga
 
 Design: [Yoga](https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png)
 
